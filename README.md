@@ -1,0 +1,2 @@
+# Facebook_friends_network_creation_and_analysis
+The project aims at crawling social media data and performing analysis on the extracted data. The social media platform selected for this is Twitter. Twitter is one of the most well known platforms and extracting the data from it is also simplified by them. They provide Twitter APIs through which we can extract the data. We will further perform analysis on in it and build a friendship network.
